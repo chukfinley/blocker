@@ -102,13 +102,3 @@ This project is licensed under the MIT License.
 
 Also, do not publish your actual NextDNS API key with your public repository. Use sample configurations with dummy values or use secure methods (such as environment variables) to manage your credentials.
 ```
-
----
-
-## Final Remarks
-
-- The service reads all important variables (such as the blocked time and NextDNS credentials) from the JSON configuration file.
-- A sample configuration file (`blocker_config.sample.json`) is provided to help others set up their configurations while keeping sensitive data private.
-- The included README explains features, requirements, installation steps, and how to run as a background systemd service.
-
-You now have a complete solution that meets your requirements and is ready for publishing on GitHub with a sample configuration and documentation. Enjoy!
