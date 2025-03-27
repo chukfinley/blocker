@@ -94,7 +94,7 @@ sudo systemctl status blocker.service
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the WTFPL License.
 
 ## Disclaimer
 
