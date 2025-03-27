@@ -101,4 +101,3 @@ This project is licensed under the MIT License.
 **Warning:** Running scripts as root, especially those that kill processes and update network settings, can have unintended consequences. Always review and test the code in a safe environment before using it in production.
 
 Also, do not publish your actual NextDNS API key with your public repository. Use sample configurations with dummy values or use secure methods (such as environment variables) to manage your credentials.
-```
