@@ -1,0 +1,14 @@
+{
+  "blocked_apps": ["vlc", "gedit", "spotify", "stem"],
+  "blocked_websites": ["facebook.com", "twitter.com"],
+  "blocked_time": {
+    "start": "09:00",
+    "end": "17:00"
+  },
+  "log_file": "/var/log/blocker.log",
+  "target_user": "user",
+  "nextdns": {
+    "profile_id": "YOURNEXTDNSID",
+    "api_key": "YOURNEXTDNSAPIKEY"
+  }
+}
